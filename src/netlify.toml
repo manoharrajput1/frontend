@@ -1,5 +1,5 @@
 [[redirects]]
-from = '/*'
+from = '/https://portliofol.netlify.app'
 to = '/index.html'
 status = 200
 
